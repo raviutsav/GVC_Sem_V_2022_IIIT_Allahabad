@@ -1,0 +1,6 @@
+Q1. Create and rotate a triangle about the origin and about a fixed point.
+Q2. Create a hut and perform the following transformations on it:
+       (a) Scale by +2 (fixed point scaling)
+       (b) Scale by 0.5 (fixed point scaling)
+       (c) Translate in X and Y direction
+       (d) Rotate it by an angle of 45 degree (fixed point rotation)

@@ -1,0 +1,1 @@
+Write a code to do the animation of table and chair as mentioned in the attached figure,  such that when chair fall on the table it should not be in the air i.e. ground and should not cut/inside the table. Keep the touched point on the table only and use the colors as shown in the figure (no need to put fruit box on the table).
